@@ -1,0 +1,32 @@
+{
+  "abi": [
+    {
+      "inputs": [],
+      "name": "totalSupplied",
+      "outputs": [{"type": "uint256"}],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "utilizationRate",
+      "outputs": [{"type": "uint256"}],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "supplyAPR",
+      "outputs": [{"type": "uint256"}],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "borrowAPR",
+      "outputs": [{"type": "uint256"}],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ]
+} 

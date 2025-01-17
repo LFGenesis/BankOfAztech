@@ -1,0 +1,28 @@
+{
+  "abi": [
+    {
+      "inputs": [],
+      "name": "openInterest",
+      "outputs": [{"type": "uint256"}],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "fundingRate",
+      "outputs": [{"type": "int256"}],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "longShortRatio",
+      "outputs": [
+        {"type": "uint256", "name": "longRatio"},
+        {"type": "uint256", "name": "shortRatio"}
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ]
+} 
